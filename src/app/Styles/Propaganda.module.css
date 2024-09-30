@@ -1,0 +1,15 @@
+.propaganda {
+    margin: 2rem 0;
+    text-align: center;
+  }
+  
+  .propagandaContent {
+    max-width: 800px;
+  }
+  
+  .propagandaImage {
+    max-width: 100%;
+    height: auto;
+    margin-top: 1rem;
+  }
+  
